@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aircraft Baggage</string>
+    <string name="nama">Nama</string>
+    <string name="tujuan">Tujuan</string>
+    <string name="jenis_pesawat">Jenis Pesawat</string>
+    <string name="berat">Berat</string>
+    <string name="penerbangan">Penerbangan</string>
+    <string name="daftar_pesawat">daftar pesawat</string>
+</resources>
