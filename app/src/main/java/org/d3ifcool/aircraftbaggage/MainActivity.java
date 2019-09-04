@@ -13,6 +13,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
+ // TODO declarate EditText, RadioButton, TextView, Button
 
     EditText edtNama, edtTujuan, edtPesawat, edtBerat;
     RadioButton rdbInter, rdbDomestic;
