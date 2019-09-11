@@ -40,6 +40,7 @@ public class MainActivity extends AppCompatActivity {
 
         tvHarga = findViewById(R.id.tv_harga);
 
+        //setVisible TextView
         tvHarga.setVisibility(View.GONE);
         btnDaftar.setVisibility(View.GONE);
         btnShare.setVisibility(View.GONE);
